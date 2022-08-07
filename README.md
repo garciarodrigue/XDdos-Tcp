@@ -6,4 +6,5 @@ Ataques Ddos "Denegation of Services" TCP
 ##### port 8080  Ejempl
 ##### package 10 or 200
 ##### time 30
+<img src="Screenshot_20220806-233129_Termux.jpg" width="150">
 
